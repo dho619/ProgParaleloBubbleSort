@@ -1,4 +1,4 @@
-package progparalelo;
+package progParalelo_v2;
 
 public class bubbleSort extends Thread{ //extender a clase thread, para poder usar ela como threads
    private int valorInicial, valorFinal;
@@ -9,8 +9,7 @@ public class bubbleSort extends Thread{ //extender a clase thread, para poder us
         this.valorFinal = valorFinal;
         this.vetor = vetor;
     }
-  
-   
+    
    @Override//sobrescrever o metodo run da class thread
     public void run() {
         //ordenacao de vetor pelo algoritmo bubbleSort
