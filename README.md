@@ -12,3 +12,5 @@ Para o uso de threads, foi feito da seguinte forma, o vetor foi dividido em N pa
 	Em contrapartida, o aumento de threads de forma inconsequente, não é a melhor forma de se usar a programação paralela, primeiramente que é nítido a queda de desempenho após certo tempo aumentando (cem threads nesse teste) e além disto tem a questão de um programas não deve usar todo o processador para ele, a não ser que o mesmo rodará em um computador próprio para ele.
 
 
+### OBS: No próximo branch há uma versão um pouco mais complexa usando paralelismo na ordenação
+
