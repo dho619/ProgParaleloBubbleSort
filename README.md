@@ -44,11 +44,11 @@ Obs: Foi apenas coincidência, sair todos resultados múltiplos de dois.
 * Segunda forma:
 Na segunda forma, foi feito usando o arquivo paralelizacao.java, onde o mesmo também usou a busca de melhor resultado, com a diferença, que ele volta o retorno do melhor resultado de cada divisão, assim sendo, se foi dividido em dois, foi dois resultados, se foram três, três resultados. Vale ressaltar, que o que será considerado, será o maior tempo retornado, pois os demais esperaram, antes de prosseguir.
 
-        * Com 2 Partes: Com duas partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 12,41 segundos e 33 threads e outra parte com 10,04 com 36 threads. No segundo teste, uma parte com 11,80 segundos e 128 threads e outra parte com 10,31 com 1024 threads.
+	* Com 2 Partes: Com duas partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 12,41 segundos e 33 threads e outra parte com 10,04 com 36 threads. No segundo teste, uma parte com 11,80 segundos e 128 threads e outra parte com 10,31 com 1024 threads.
 
-        * Com 3 Partes: Com três partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 14,74 segundos e 64 threads, outra com 12,53 com 36 threads e a última com 10,16 com 514 threads. No segundo teste, uma parte com 14,80 segundos e 32 threads, outra com 15,35 com 17 threads e a última com 10,01 com 33 threads.
+	* Com 3 Partes: Com três partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 14,74 segundos e 64 threads, outra com 12,53 com 36 threads e a última com 10,16 com 514 threads. No segundo teste, uma parte com 14,80 segundos e 32 threads, outra com 15,35 com 17 threads e a última com 10,01 com 33 threads.
 
-        * Com 4 Partes: Com quatro partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 18,42 segundos e 64 threads, outra com 14,65 com 129 threads, outra com 12,42 com 72 threads e a última com 10,36 com 138 threads. No segundo teste, uma parte com 18,98 segundos e 32 threads, outra com 15,01 com 66 threads, outra com 15,47 com 512 threads e a última com 15,72 com 66 threads.
+	* Com 4 Partes: Com quatro partes, os melhores resultados obtidos foram, no primeiro teste, uma parte com 18,42 segundos e 64 threads, outra com 14,65 com 129 threads, outra com 12,42 com 72 threads e a última com 10,36 com 138 threads. No segundo teste, uma parte com 18,98 segundos e 32 threads, outra com 15,01 com 66 threads, outra com 15,47 com 512 threads e a última com 15,72 com 66 threads.
 
 
 Conclusão:
